@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = roberto.riesco.alvarez@gmail.com
+	name = Roberto Riesco
